@@ -1,2 +1,2 @@
-# Beingfixeed
+# Beingfixed
 Apartment maintenance app
